@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Ruby, Rails, Postgres**
 
-- 🌱 Currently learning **Flink** and **Event Driven Architecture**
+- 🌱 Currently learning **Flink** and **Elixir**!
 
 - ⚡ **Fun fact:** I used to play drums in a pop punk band!
 
